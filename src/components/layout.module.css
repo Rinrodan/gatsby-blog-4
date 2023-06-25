@@ -1,0 +1,16 @@
+.navContainer {
+    height: 50%;
+    background-color: rgba(0, 0, 255, 0.331);
+}
+.navLinks {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    background-color: blue;
+}
+.navLinkItem {
+    padding-right: 2rem;
+}
+.navLinkText {
+    color: black;
+}
